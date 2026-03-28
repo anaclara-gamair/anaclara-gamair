@@ -1,4 +1,4 @@
-<h1 align="center">eai! 👋 eu sou a ana clara</h1>
+<h1 align="center">  Eai! 👋 Eu sou a ana clara</h1>
 
 <p align="center">
 💻 Network & IT Support • 👩‍💻 Dev em formação • 🚀 Apaixonada por tecnologia
