@@ -30,7 +30,7 @@
 
 ## 🛠️ linguagens e ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=python,javascript,mysql,linux,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,javascript,postgres,mysql,linux,vscode,git,github)
 
 ---
 
@@ -64,9 +64,9 @@
 
 ## 📊 stats
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclara-gamair&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclara-gamair&layout=compact)
 
 ---
 
